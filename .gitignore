@@ -1,0 +1,9 @@
+# System/tool-specific ignores
+.directory
+*~
+
+.vscode/
+
+bin/
+
+tjld
